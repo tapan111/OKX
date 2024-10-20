@@ -1,3 +1,0 @@
-/Users/tapankarangiya/Desktop/OKX/build/CMakeFiles/okx_order_system.dir
-/Users/tapankarangiya/Desktop/OKX/build/CMakeFiles/edit_cache.dir
-/Users/tapankarangiya/Desktop/OKX/build/CMakeFiles/rebuild_cache.dir
